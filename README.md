@@ -39,12 +39,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://tenor.com/iPZmkJ4oMnP.gif"/>
+  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFjbmtiZGVybGd0bGpsYWFvc3BlamFiazFkbmk4OXU2emV4c25vdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jj1xut6ZsokKI/giphy.gif"/>
 </div>
 
 ###
 
-<br clear="both">
-
-
-###

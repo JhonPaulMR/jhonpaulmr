@@ -1,4 +1,4 @@
-<h2 align="left">Hello 🫡, my name is João Paulo, I´m a dev and student of T.S.I at UTFPR University</h2>
+<h2 align="left">Hello 🫡, my name is João Paulo Marques Rodrigues, I´m a dev and student of T.S.I at UTFPR University</h2>
 
 ###
 

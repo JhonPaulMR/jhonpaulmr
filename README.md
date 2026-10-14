@@ -83,20 +83,16 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JhonPaulMR/JhonPaulMR/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/JhonPaulMR/jhonpaulmr/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Troque pelos nomes dos seus repositórios -->
 <div align="center">
-  <a href="https://github.com/JhonPaulMR/NOME-DO-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonPaulMR&repo=NOME-DO-REPO-1&theme=dracula" alt="project 1" />
-  </a>
-  <a href="https://github.com/JhonPaulMR/NOME-DO-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonPaulMR&repo=NOME-DO-REPO-2&theme=dracula" alt="project 2" />
+  <a href="https://github.com/JhonPaulMR/vnes-crud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonPaulMR&repo=vnes-crud&theme=dracula" alt="vnes-crud" />
   </a>
 </div>
 

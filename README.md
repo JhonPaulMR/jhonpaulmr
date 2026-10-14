@@ -12,8 +12,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhonPaulMR&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/JhonPaulMR?style=for-the-badge&logo=github&color=6272A4&labelColor=282A36" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-BD93F9?style=for-the-badge&labelColor=282A36" alt="status" />
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ### Frameworks & Libraries
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
@@ -62,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
@@ -79,27 +78,19 @@
   <img src="https://streak-stats.demolab.com?user=JhonPaulMR&theme=dracula&hide_border=false" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JhonPaulMR&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonPaulMR&theme=dracula&bg_color=282a36&color=bd93f9&line=bd93f9&point=f8f8f2&area=true&hide_border=true" alt="activity graph" />
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JhonPaulMR/JhonPaulMR/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/JhonPaulMR/JhonPaulMR/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Troque pelos seus repositórios -->
+<!-- Troque pelos nomes dos seus repositórios -->
 <div align="center">
   <a href="https://github.com/JhonPaulMR/NOME-DO-REPO-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonPaulMR&repo=NOME-DO-REPO-1&theme=dracula" alt="project 1" />
@@ -116,12 +107,6 @@
 <div align="left">
   <a href="https://www.instagram.com/joaopaulomr_ofc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="email" />
   </a>
 </div>
 

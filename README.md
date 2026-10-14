@@ -80,14 +80,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JhonPaulMR/jhonpaulmr/output/github-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
